@@ -1,0 +1,2 @@
+Legal[[:space:]]Assist/** filter=lfs diff=lfs merge=lfs -text
+Legal_Assist/** filter=lfs diff=lfs merge=lfs -text
